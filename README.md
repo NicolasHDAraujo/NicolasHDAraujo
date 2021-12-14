@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @NicolasHDAraujo, tenho 28 anos e estou atualmente me formando em Análise e Desenvolvimento de Sistemas pelo IFSP-Boituva, buscando minha primeira oportunidade
+- 👋 Olá, eu sou @NicolasHDAraujo, tenho 27 anos e estou atualmente me formando em Análise e Desenvolvimento de Sistemas pelo IFSP-Boituva, buscando minha primeira oportunidade
 como Desenvolvedor/Analista de Sistemas WEB.
 
 - 👀 Atualmente estou a procura de uma oportunidade como Desenvolvedor Frontend WEB com React/Nextjs, tenho boa base em Javascript e Typescript.
