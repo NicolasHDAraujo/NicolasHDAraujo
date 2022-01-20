@@ -1,5 +1,5 @@
 <h1 align="left">
-  👋 Olá, eu sou @NicolasHDAraujo, tenho 27 anos, formado em Análise e Desenvolvimento de Sistemas pelo IFSP-Boituva,<br> 
+  👋 Olá, eu sou Nicolas, tenho 27 anos, formado em Análise e Desenvolvimento de Sistemas pelo IFSP-Boituva,<br> 
   buscando minha primeira oportunidade como Desenvolvedor/Analista de Sistemas WEB.
 </h1>
 <p align="left">
