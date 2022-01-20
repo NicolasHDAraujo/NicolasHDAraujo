@@ -1,23 +1,23 @@
-<h1 align="center">
+<h1 align="left">
   👋 Olá, eu sou @NicolasHDAraujo, tenho 27 anos, formado em Análise e Desenvolvimento de Sistemas pelo IFSP-Boituva,<br> 
   buscando minha primeira oportunidade como Desenvolvedor/Analista de Sistemas WEB.
 </h1>
-<p align="center">
+<p align="left">
   👀 Atualmente estou a procura de uma oportunidade como Desenvolvedor Frontend WEB com React/Nextjs, tenho boa base em Javascript e Typescript.
 </p>
- <p align="center">
+ <p align="left">
  🌱 Estudo atualmente o aprofundamento nos meus conhecimentos WEB com as tecnologias já mencionadas, além do backend com Nodejs e banco de dados relacional. <br>
   Também estou lendo o livro "Engenharia de Software" de Roger Pressman, afim de ter mais conhecimentos nas teorias sobre todo o processo da engenharia de software.
 </p>
-<p align="center">
+<p align="left">
   - 📫 Para me contatar
 </p>
-<p align="center">
+<p align="left">
   https://www.linkedin.com/in/nicolashda/
 </p>
-<p align="center">
+<p align="left">
   nicolas_hd.araujo@outlook.com
 </p>
-<p align="center">
+<p align="left">
   nicolasnvna@gmail.com
 </p>
