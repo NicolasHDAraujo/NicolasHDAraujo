@@ -1,10 +1,6 @@
 <h1 align="left">
-  👋 Olá, eu sou Nicolas, tenho 28 anos, formado em Análise e Desenvolvimento de Sistemas pelo IFSP-Boituva,<br> 
-  buscando minha primeira oportunidade como Desenvolvedor/Analista de Sistemas WEB.
+  👋 Olá, eu sou Nicolas, tenho 28 anos, formado em Análise e Desenvolvimento de Sistemas pelo IFSP-Boituva.<br> 
 </h1>
-<p align="left">
-  👀 Atualmente estou a procura de uma oportunidade como Desenvolvedor Frontend WEB com React/Nextjs, tenho boa base em Javascript e Typescript.
-</p>
  <p align="left">
  🌱 Estudo atualmente o aprofundamento nos meus conhecimentos WEB com as tecnologias já mencionadas, além de ter iniciado a pós graduação em Gestão de T.I no IFSP. <br>
   Também estou lendo o livro "Engenharia de Software" de Roger Pressman, afim de ter mais conhecimentos nas teorias sobre todo o processo da engenharia de software.
