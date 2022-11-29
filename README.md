@@ -2,8 +2,8 @@
   👋 Olá, eu sou Nicolas, tenho 28 anos, formado em Análise e Desenvolvimento de Sistemas pelo IFSP-Boituva.<br> 
 </h1>
  <p align="left">
- 🌱 Estudo atualmente o aprofundamento nos meus conhecimentos WEB com as tecnologias já mencionadas, além de ter iniciado a pós graduação em Gestão de T.I no IFSP. <br>
-  Também estou lendo o livro "Engenharia de Software" de Roger Pressman, afim de ter mais conhecimentos nas teorias sobre todo o processo da engenharia de software.
+ 🌱 Trabalho atualmente como desenvolvedor Frontend JR, com as ferramentas Angular e AngularJS, e como consultor Zendesk.
+     Afim de aprofundar meus conhecimentos estou estudando inglês no período da noite e realizando cursos online de programação com os frameworks Angular, React e NextJS.
 </p>
 <p align="left">
   - 📫 Para me contatar
